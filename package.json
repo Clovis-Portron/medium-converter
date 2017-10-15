@@ -11,7 +11,9 @@
     "browserify": "^14.4.0"
   },
   "dependencies": {
+    "html2canvas": "^0.5.0-beta4",
     "isomorphic-fetch": "2.2.1",
+    "markdown": "^0.5.0",
     "medium-parser": "0.1.0"
   },
   "browser": {
